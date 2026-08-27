@@ -140,3 +140,4 @@ python chunk_experiment.py \
 - Source citations are requested but not automatically validated.
 - Generated answers are not evaluated systematically.
 - Responses are not streamed.
+- optimized for German-language documents using German Snowball stemming
